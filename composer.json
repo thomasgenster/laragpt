@@ -1,5 +1,5 @@
 {
-    "name": "jumbaeric/laragpt",
+    "name": "thomasgenster/laragpt",
     "description": "Laravel chatgpt package, includes models listing and retrieving, completions prediction, chat completion from conversation, edits, images creation, image edit, image variations, audio translation and transcription.",
     "keywords": [
         "laravel",

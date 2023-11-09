@@ -5,7 +5,7 @@ namespace Jumbaeric\Laragpt\OpenAI;
 final class Audio extends OpenAI
 {
     public string $service = 'audio/transcriptions';
-    public $model = "whisper-1";
+    public string $model = "whisper-1";
 
     public function __construct($args){
         parent::__construct($args);
